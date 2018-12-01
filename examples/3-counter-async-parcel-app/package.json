@@ -1,0 +1,19 @@
+{
+  "name": "3-counter-async-parcel-app",
+  "version": "1.0.0",
+  "description": "hyper parcel example app",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyperapp"
+  ],
+  "author": "Vedran Mandić",
+  "license": "ISC",
+  "dependencies": {
+    "hyperapp": "^1.2.9",
+    "parcel": "^1.10.3"
+  }
+}
