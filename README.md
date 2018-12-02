@@ -4,8 +4,8 @@ This is a free to explore playground for HyperappJS. A slick and light front-end
 
 **Explore the `./examples` directory for the sample applications.**
 
-[![Oh no JavaScript: From jQuery to Hyperap?!](https://image-store.slidesharecdn.com/3bdba750-6c33-4501-8e9a-5fbb42782a88-original.png)](http://bit.ly/atd14-hyperapp-prez)
+[![Oh no JavaScript: From jQuery to Hyperap?!](https://image-store.slidesharecdn.com/3bdba750-6c33-4501-8e9a-5fbb42782a88-original.png)](http://bit.ly/atd14-hyperapp)
 
 This repository relates to the presentation I held on advtechdays.com conference on Dec 5 2018 in Zagreb, Croatia.
 
-The presentation is available on link: http://bit.ly/atd14-hyperapp-prez
+The presentation is available on link: http://bit.ly/atd14-hyperapp
