@@ -10,7 +10,9 @@ export const state = {
 export const actions = {
   down: () => state => ({ count: state.count - 1 }),
   up: () => state => ({ count: state.count + 1 }),
-  upLater: () => (state, actions) => { setTimeout(actions.up, state.delay); }
+  upLater: () => (state, actions) => {
+    setTimeout(actions.up, state.delay);
+  }
 };
 
 export const view = (state, actions) => (
